@@ -1,0 +1,94 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    padding: 25px;
+    font: 16px 'Boldonse';
+    background-color: #2f2f2f;
+    margin: 0;
+    color: #ebedef;
+    font-size: 14px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 65px;
+    margin-bottom: 20px;
+    font-family: 'Orbitron', Tahoma;
+}
+
+h2 {
+    font-size: 25px;
+    color: #33f0ff;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+a {
+    font: bold 14px;
+    padding: 15px;
+    text-align: center;
+    color: #33f0ff;
+}
+
+.header-hyperlinks {
+    align-items: left;
+    font-family: 'Boldonse', Tahoma;
+}
+
+#join-us {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font: bold 16px 'Orbitron', Tahoma;
+}
+
+.hyperlink-break {    
+    border: 2px solid #ebedef;
+    margin-top: 10px;
+}
+
+.about-us {
+    font-family: 'Orbitron', Tahoma;
+    font-weight: bold;
+    padding: 10px;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.details {
+    padding: 10px;
+    font-weight: normal;
+    font-family: 'Boldonse', Tahoma;
+}
+
+.what-we-do-list {
+    font-weight: bold;
+    font-family: tahoma;
+}
+
+ol {
+    width: 90%;
+    padding-left: 50px;
+}
+
+li {
+    padding: 10px;
+    font-weight: bold;
+    font-family: 'Orbitron', Tahoma;
+    color: #33f0ff;
+}
+
+ul {
+    font-size: 14px;
+    padding-left: 15px;
+    font-weight: normal;
+    font-family: Tahoma;
+}
