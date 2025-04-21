@@ -43,10 +43,14 @@ a {
     font-family: 'Boldonse', Tahoma;
 }
 
-#join-us, #marketplace {
+#join-us {
     position: absolute;
     top: 0;
     right: 0;
+    font: bold 16px 'Orbitron', Tahoma;
+}
+
+#marketplace {
     font: bold 16px 'Orbitron', Tahoma;
 }
 
