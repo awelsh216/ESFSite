@@ -43,7 +43,7 @@ a {
     font-family: 'Boldonse', Tahoma;
 }
 
-#join-us {
+#join-us, #marketplace {
     position: absolute;
     top: 0;
     right: 0;
