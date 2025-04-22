@@ -6,6 +6,13 @@
   box-sizing: border-box;
 }
 
+a {
+    font: bold 14px;
+    padding: 15px;
+    text-align: center;
+    color: #33f0ff;
+}
+
 body {
     padding: 25px;
     font: 16px 'Boldonse';
@@ -31,32 +38,23 @@ h4 {
     font-size: 16px;
 }
 
-a {
-    font: bold 14px;
-    padding: 15px;
-    text-align: center;
+li {
+    padding: 10px;
+    font-weight: bold;
+    font-family: 'Orbitron', Tahoma;
     color: #33f0ff;
 }
 
-.header-hyperlinks {
-    align-items: left;
-    font-family: 'Boldonse', Tahoma;
+ol {
+    width: 90%;
+    padding-left: 50px;
 }
 
-#join-us {
-    position: absolute;
-    top: 0;
-    right: 0;
-    font: bold 16px 'Orbitron', Tahoma;
-}
-
-#marketplace {
-    font: bold 16px 'Orbitron', Tahoma;
-}
-
-.hyperlink-break {    
-    border: 2px solid #ebedef;
-    margin-top: 10px;
+ul {
+    font-size: 14px;
+    padding-left: 15px;
+    font-weight: normal;
+    font-family: Tahoma;
 }
 
 .about-us {
@@ -73,26 +71,41 @@ a {
     font-family: 'Boldonse', Tahoma;
 }
 
+.header-hyperlinks {
+    align-items: left;
+    font-family: 'Boldonse', Tahoma;
+}
+
+.hyperlink-break {    
+    border: 2px solid #ebedef;
+    margin-top: 10px;
+}
+
 .what-we-do-list {
     font-weight: bold;
     font-family: tahoma;
 }
 
-ol {
-    width: 90%;
-    padding-left: 50px;
+
+
+#discord {
+    position: absolute;
+    right: 0;
+    font: bold 16px 'Orbitron', Tahoma;
 }
 
-li {
-    padding: 10px;
-    font-weight: bold;
-    font-family: 'Orbitron', Tahoma;
-    color: #33f0ff;
+#join-us {
+    position: absolute;
+    top: 0;
+    font: bold 16px 'Orbitron', Tahoma;
 }
 
-ul {
-    font-size: 14px;
-    padding-left: 15px;
-    font-weight: normal;
-    font-family: Tahoma;
+#marketplace {
+    font: bold 16px 'Orbitron', Tahoma;
+}
+
+#org {
+    position: absolute;
+    right: 30px;
+    font: bold 16px 'Orbitron', Tahoma;
 }
