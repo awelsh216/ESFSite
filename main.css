@@ -90,24 +90,20 @@ ul {
 
 
 
-#discord {
+#join-us-discord {
     position: absolute;
     top: 0;
+    right: 0;
     font: bold 16px 'Orbitron', Tahoma;
 }
 
-#join-us {
+#join-us-org {
     position: absolute;
+    top: 30px;
     right: 0;
     font: bold 16px 'Orbitron', Tahoma;
 }
 
 #marketplace {
-    font: bold 16px 'Orbitron', Tahoma;
-}
-
-#org {
-    position: absolute;
-    top: 30px;
     font: bold 16px 'Orbitron', Tahoma;
 }
