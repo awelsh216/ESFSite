@@ -83,6 +83,10 @@ ul {
     margin-top: 10px;
 }
 
+.links {
+    font: bold 16px 'Orbitron', Tahoma;
+}
+
 .what-we-do-list {
     font-weight: bold;
     font-family: tahoma;
@@ -101,9 +105,5 @@ ul {
     position: absolute;
     top: 30px;
     right: 0;
-    font: bold 16px 'Orbitron', Tahoma;
-}
-
-#marketplace {
     font: bold 16px 'Orbitron', Tahoma;
 }
