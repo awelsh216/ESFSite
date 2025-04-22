@@ -84,6 +84,11 @@ ul {
 }
 
 .links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px 20px;
+    margin: 0 auto;
     font: bold 16px 'Orbitron', Tahoma;
 }
 
